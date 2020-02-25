@@ -44,7 +44,6 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
-              "baseHref": "https://angular9-apps.herokuapp.com/",
               "budgets": [
                 {
                   "type": "initial",
